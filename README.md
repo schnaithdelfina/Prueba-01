@@ -10,7 +10,7 @@ Probando hacer un repositorio
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f6f8fa;
+      background: #f6f8fa;
       margin: 0;
       padding: 40px;
     }
@@ -19,32 +19,29 @@ Probando hacer un repositorio
       max-width: 700px;
       margin: auto;
       background: white;
-      padding: 25px;
-      border-radius: 10px;
+      padding: 30px;
+      border-radius: 12px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     }
 
     h1 {
+      margin: 0 0 10px;
       color: #24292f;
-      margin-bottom: 10px;
     }
 
     p {
       color: #57606a;
+      margin-bottom: 20px;
     }
 
-    ul {
-      list-style: none;
-      padding: 0;
-      margin-top: 20px;
-    }
-
-    li {
-      padding: 12px;
+    .card {
       border: 1px solid #e1e4e8;
-      border-radius: 6px;
+      border-radius: 8px;
+      padding: 15px;
       background: #fafafa;
-      margin-bottom: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
     }
 
     a {
@@ -58,7 +55,7 @@ Probando hacer un repositorio
     }
 
     .icon {
-      margin-right: 6px;
+      margin-right: 8px;
     }
   </style>
 </head>
@@ -66,16 +63,19 @@ Probando hacer un repositorio
 <body>
   <div class="container">
     <h1>📚 Mis trabajos</h1>
-    <p>Repositorio de documentos</p>
+    <p>Repositorio de documentos en GitHub Pages</p>
 
-    <ul>
-      <li>
+    <div class="card">
+      <div>
         <span class="icon">📄</span>
-        <a href="PRACTICA_2.pdf" target="_blank">
-          PRACTICA_2.pdf
-        </a>
-      </li>
-    </ul>
+        Trabajo Práctico 2
+      </div>
+
+      <!-- 🔴 IMPORTANTE: reemplazá ESTE link -->
+      <a href="PRACTICA_2" target="_blank">
+        Ver PDF
+      </a>
+    </div>
   </div>
 </body>
 </html>
