@@ -25,8 +25,8 @@ Probando hacer un repositorio
     }
 
     h1 {
-      margin-bottom: 10px;
       color: #24292f;
+      margin-bottom: 10px;
     }
 
     p {
@@ -43,8 +43,8 @@ Probando hacer un repositorio
       padding: 12px;
       border: 1px solid #e1e4e8;
       border-radius: 6px;
+      background: #fafafa;
       margin-bottom: 10px;
-      background-color: #fafafa;
     }
 
     a {
@@ -66,16 +66,18 @@ Probando hacer un repositorio
 <body>
   <div class="container">
     <h1>📚 Mis trabajos</h1>
-    <p>Repositorio de documentos en GitHub Pages</p>
+    <p>Repositorio de documentos</p>
 
     <ul>
       <li>
         <span class="icon">📄</span>
         <a href="Proceso_institucionalizacion.pdf" target="_blank">
-          Trabajo Práctico 2 - Proceso de institucionalización
+          Trabajo Práctico 2
         </a>
       </li>
     </ul>
   </div>
+</body>
+</html>
 </body>
 </html>
