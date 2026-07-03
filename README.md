@@ -22,10 +22,7 @@ Para ver o descargar el desarrollo completo del trabajo práctico, hacé clic en
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
 
-* **Git & GitHub** - Control de versiones y alojamiento del proyecto.
-* *(Completar con las tecnologías del TP, ej: Python, SQL, C++, etc.)*
 
 ---
 📌 *Nota: Este es un repositorio de prueba en constante actualización.*
