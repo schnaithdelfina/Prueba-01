@@ -10,7 +10,7 @@ Este repositorio funciona como contenedor para las actividades prácticas del cu
 
 ### 📋 Contenido del Repositorio
 * `PRACTICA_2.pdf`: Enunciado y resolución del trabajo práctico.
-* *(Podés agregar acá si tenés carpetas de código, ej: `/src`, `/scripts`)*
+
 
 ---
 
