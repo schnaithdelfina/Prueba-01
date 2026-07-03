@@ -71,10 +71,14 @@ Probando hacer un repositorio
     <ul>
       <li>
         <span class="icon">📄</span>
-        <a href="Proceso_institucionalizacion.pdf" target="_blank">
+        <a href="TP.2" target="_blank">
           Trabajo Práctico 2
         </a>
       </li>
+    </ul>
+  </div>
+</body>
+</html>
     </ul>
   </div>
 </body>
